@@ -1,5 +1,6 @@
 # Desafio back-end irede Amazônia
 
+[DOCKER HUB PROJECT](https://hub.docker.com/repositories/thiagoboneth)
 
 ### Projeto de gerenciamento de produtos
 #### Java, Mysql8, Docker
